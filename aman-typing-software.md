@@ -3,7 +3,7 @@ id: 1001
 title: Aman Typing Software | SD
 date: 2021-07-27T09:11:57+00:00
 author: Admin
-layout: page
+layout: page 
 guid: http://jayedrafi.com/?page_id=1001
 site-sidebar-layout:
   - no-sidebar
